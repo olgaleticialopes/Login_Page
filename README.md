@@ -7,5 +7,5 @@
   <img  src="/img/preview.png"/>
 </div>
 <div align="center">
-  <p><a href="https://mymys.vercel.app">Clique para ir para o ver o projeto</a></p>
+  <p><a href="https://login-page-bay-phi.vercel.app">Clique para ir para o ver o projeto</a></p>
 </div>
